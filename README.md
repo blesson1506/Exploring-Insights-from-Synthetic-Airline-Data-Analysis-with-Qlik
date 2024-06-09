@@ -20,7 +20,8 @@ Embark on this journey with us and explore the sky-high possibilities of data-dr
 These are the Dashboards Generated.
 
 
-<img width="1792" alt="Screenshot 2024-06-07 at 23 07 35" src="https://github.com/blesson1506/Exploring-Insights-from-Synthetic-Airline-Data-Analysis-with-Qlik/assets/116941843/4ed6e7dc-9c75-44b4-8db1-5950d93a69a7">
+<img width="1792" alt="Screenshot 2024-06-09 at 20 01 38" src="https://github.com/blesson1506/Exploring-Insights-from-Synthetic-Airline-Data-Analysis-with-Qlik/assets/116941843/fba2e8d0-01ee-4440-8314-a2e484c37345">
+
 
 
 🛫 Dashboard 1: Customer Analysis 📊
